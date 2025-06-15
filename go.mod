@@ -1,4 +1,4 @@
-module github.com/swaggo/http-swagger/v2
+module github.com/ducknes/http-swagger
 
 go 1.17
 
